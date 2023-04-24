@@ -62,3 +62,4 @@ for msgTxt in msgContent:
 * [SeleniumLibrary](http://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)
 * [図解】XPathとは？基本概念から書き方までわかりやすく解説！](https://www.octoparse.jp/blog/xpath-introduction/)
 * [ChromeでXPathを取る・検証する](https://qiita.com/ywindish/items/5a992c49387d81df900e)
+
